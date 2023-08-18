@@ -23,4 +23,7 @@ Simple realization of abstract class CreditCard. Class provide opotunities:
 * replanishment card
 * show available funds (own funds, credit funds).
 
-* 
+# SilverCreditCard
+Realization of abstract class CreditCard, that supports all function of SimpleCreditCard and also 
+can improve credit limit of the card, if sum of loan payments is more than "Control Sum".
+
